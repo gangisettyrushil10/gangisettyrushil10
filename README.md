@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @gangisettyrushil10
-- 👀 I’m interested in AI and Machine Learning 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gangisettyrushil10/gangisettyrushil10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Rushil 👋 Software engineer based in Dallas, TX. Building backend systems, full-stack products, and data workflows. Currently pursuing my M.S. in Computer Science at UT Dallas. --- ### What I'm working on - 🏀 **[Buzzr](https://github.com/gangisettyrushil10/Buzzr)** — sports social platform (React Native + Supabase + TypeScript) - 🏦 **[Credit Union Ledger API](https://github.com/gangisettyrushil10/Credit-Union-Ledger-API)** — production-grade REST API (ASP.NET Core + PostgreSQL + Docker) - 📊 **[Business Analytics Dashboard](https://github.com/gangisettyrushil10/Business_Analytics_Dashboard)** — ETL + forecasting + AI reporting (FastAPI + React) ### Tech I use **Languages:** Python · Java · TypeScript · C# · JavaScript · SQL **Backend:** ASP.NET Core · FastAPI · Flask · Spring Boot · Node.js **Frontend:** React · React Native · Next.js · Expo **Data & DB:** PostgreSQL · Supabase · MySQL · SQLAlchemy · EF Core **Infra:** Docker · GitHub Actions · CI/CD · REST APIs · Linux ### Certifications - Microsoft Certified: Azure Fundamentals - Full Stack Engineer (Codecademy) ### Connect - 🌐 Portfolio: [rushil-gangisetty-portfolio.vercel.app](https://rushil-gangisetty-portfolio.vercel.app) - 💼 LinkedIn: [linkedin.com/in/rushilgangisetty10](https://linkedin.com/in/rushilgangisetty10) - 📧 gangisettyrushil@gmail.com --- Open to software engineering roles (internship and full-time) — backend, full-stack, and data-focused positions.
