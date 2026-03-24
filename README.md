@@ -1,1 +1,16 @@
-## Hi, I'm Rushil 👋 Software engineer based in Dallas, TX. Building backend systems, full-stack products, and data workflows. Currently pursuing my M.S. in Computer Science at UT Dallas. --- ### What I'm working on - 🏀 **[Buzzr](https://github.com/gangisettyrushil10/Buzzr)** — sports social platform (React Native + Supabase + TypeScript) - 🏦 **[Credit Union Ledger API](https://github.com/gangisettyrushil10/Credit-Union-Ledger-API)** — production-grade REST API (ASP.NET Core + PostgreSQL + Docker) - 📊 **[Business Analytics Dashboard](https://github.com/gangisettyrushil10/Business_Analytics_Dashboard)** — ETL + forecasting + AI reporting (FastAPI + React) ### Tech I use **Languages:** Python · Java · TypeScript · C# · JavaScript · SQL **Backend:** ASP.NET Core · FastAPI · Flask · Spring Boot · Node.js **Frontend:** React · React Native · Next.js · Expo **Data & DB:** PostgreSQL · Supabase · MySQL · SQLAlchemy · EF Core **Infra:** Docker · GitHub Actions · CI/CD · REST APIs · Linux ### Certifications - Microsoft Certified: Azure Fundamentals - Full Stack Engineer (Codecademy) ### Connect - 🌐 Portfolio: [rushil-gangisetty-portfolio.vercel.app](https://rushil-gangisetty-portfolio.vercel.app) - 💼 LinkedIn: [linkedin.com/in/rushilgangisetty10](https://linkedin.com/in/rushilgangisetty10) - 📧 gangisettyrushil@gmail.com --- Open to software engineering roles (internship and full-time) — backend, full-stack, and data-focused positions.
+# Rushil Gangisetty
+
+Software engineer focused on backend systems, full-stack products, and data workflows. Incoming M.S. in Computer Science at UT Dallas (August 2026). Open to backend, full-stack, and data-focused software engineering roles.
+
+## Featured Projects
+- Buzzr: Cross-platform sports social platform built with React Native, TypeScript, Supabase, and PostgreSQL.
+- Business Analytics Dashboard: FastAPI + React analytics system with forecasting, anomaly detection, ETL workflows, and AI-generated insights.
+- IBM Medscribe AI: React + Flask clinical note analysis workflow powered by IBM watsonx and structured output generation.
+
+## Stack
+TypeScript, Python, C#, React, React Native, FastAPI, Flask, ASP.NET Core, PostgreSQL, Supabase, Docker
+
+## Links
+Portfolio: rushil-gangisetty-portfolio.vercel.app
+LinkedIn: linkedin.com/in/rushilgangisetty10
+Email: gangisettyrushil@gmail.com
